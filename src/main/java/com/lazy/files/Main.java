@@ -6,10 +6,6 @@ import com.lazy.files.action.PrintDirectoryStructure;
 import com.lazy.files.action.PrintFileTypes;
 import com.lazy.files.enums.FileOperations;
 
-import java.util.Scanner;
-
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
         try (Scanner scr = new Scanner(System.in)) {
